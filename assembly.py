@@ -11,7 +11,6 @@ import pandas as pd
 from apollo import era5 as er
 
 
-
 ### Specify meteorological variables and spatiotemporal ranges
 area = ['60.00/-8.00/48.00/4.00']
 yyyy = [str(y) for y in range(1979,2021,1)]
