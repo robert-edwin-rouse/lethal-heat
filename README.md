@@ -18,7 +18,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Streamflow Prediction Using Artificial Neural Networks &amp; Soil Moisture Proxies
+<h3 align="center">Reclassifying Lethal Heat
 </h3>
 
   <p align="center">
